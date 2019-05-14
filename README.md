@@ -11,6 +11,9 @@ Users can register to the application with a unique username, password and a pro
 Admin has different view than the user and is responsible to delete an account for the user. He can see the progress of application by viewing overall statistics of the users combined per user per access key vs upload/download/delete operations.
 
 
+![Image of ERD](https://github.com/poojachoudhari/S3Interlock/blob/master/loginView.png)
+
+
 ### Run the application
 1.	Run Main.java to start with the application
 2.	Path > java -jar p_chou_finalProjFX.jar
@@ -22,3 +25,6 @@ Admin has different view than the user and is responsible to delete an account f
 - cpooja_cloud_op_stats
 
 
+![Image of ERD](https://github.com/poojachoudhari/S3Interlock/blob/master/ERD.png)
+
+![Image of Stats View](https://github.com/poojachoudhari/S3Interlock/blob/master/statsView.png)
